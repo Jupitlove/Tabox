@@ -43,7 +43,7 @@ Tabox:
     BiliBili:
       - https://www.bilibili.com
       - 年轻人的社区
-      # 默认获取 https://www.bilibili.com/favicon.ico
+      - /logo/xx.svg
     Wolai:
       - https://www.wolai.com/
       - 云端笔记平台
